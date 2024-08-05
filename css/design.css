@@ -1,0 +1,26 @@
+div{
+    margin-left: 200px;
+}
+button{
+    border: solid 5px red;
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    padding: 10px;
+    margin: 10px;
+    
+}
+p{
+    margin-left: 200px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+#reset{
+    border: solid 1px black;
+    margin-left: 50px;
+    background-color: lightgrey;
+    width: 100px;
+    height: 30px;
+    padding: 2px;
+}
